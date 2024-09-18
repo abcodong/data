@@ -36,8 +36,8 @@ Temperature (K),Luminosity(L/Lo),Radius(R/Ro),Absolute magnitude(Mv),Star type,S
 5800,0.81,0.9,5.05,3,yellow-white,F
 8052,8.7,1.8,2.42,3,Whitish,A
 6757,1.43,1.12,2.41,3,yellow-white-,F
-6380,1.35,0.98,2.93,3,yellow-white,F
-5936,1.357,1.106,4.46,3,yellow-white,F
+6380,1.35,0.98,2.93,3,yellow/white,F
+5936,1.357,1.106,4.46,3,yellow/white,F
 5587,0.819,0.99,5.03,3,yellow-white,F
 3826,200000,19,-6.93,4,Red,M
 3365,340000,23,-6.2,4,Red,M
